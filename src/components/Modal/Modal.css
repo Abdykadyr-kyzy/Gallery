@@ -1,0 +1,36 @@
+.modal {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(14, 11, 11, 0.6);
+  display: flex; 
+  /* flex-direction: column;  */
+  justify-content: center;
+  align-items: center;
+}
+
+.modal1 {
+    background: none;
+    margin-left: 680px;
+    border: none;
+    font-size: 24px;
+   color: beige;
+}
+
+.img {
+  height: 500px;
+  width: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 1 px solid;
+  cursor: pointer;
+}
+
+.button {
+  background: none;
+  border: none;
+  font-size: 34px; 
+  margin-top: 195px;
+  color: white;
+}
+

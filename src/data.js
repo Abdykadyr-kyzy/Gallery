@@ -1,0 +1,22 @@
+export const data = [
+  {
+    photo:
+      "https://images.unsplash.com/photo-1615376506233-f0821173ddee?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80",
+  },
+  {
+    photo:
+      "https://images.unsplash.com/photo-1617642171314-276bb7641536?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80",
+  },
+  {
+    photo:
+      "https://images.unsplash.com/photo-1617510031576-c9db88171057?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80",
+  },
+  {
+    photo:
+      "https://images.unsplash.com/photo-1617571736695-5127086fb2af?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80",
+  },
+  {
+    photo:
+      "https://images.unsplash.com/photo-1617209637559-e5189a9c234c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1600&q=80",
+  },
+];

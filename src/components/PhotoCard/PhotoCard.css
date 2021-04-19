@@ -1,0 +1,9 @@
+.photo-card {
+  width: 200px;
+  height: 100px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 10px;
+  border: 1px solid;
+  cursor: pointer;
+}
